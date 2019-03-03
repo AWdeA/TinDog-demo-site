@@ -1,2 +1,2 @@
-# professional-cv-website
-demo professional website
+# TinDog-demo-site
+demo website
